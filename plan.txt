@@ -1,0 +1,12 @@
+Prosjekt 2 - Innlevering: Fredag 8.11
+
+a) Analyse av rådata - på en strukturert og dokumentert måte.
+  Strukturering av datasett
+  Kode for å 'produsere' data for analyse
+b) logreg funksjon:
+   - Input: 
+   - Output:
+c)  Neuralsk nettverk
+  - Innebygd funksjon men må kunne kjøres..
+  - Input:
+  - Output: 
